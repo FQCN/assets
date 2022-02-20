@@ -1,0 +1,14 @@
+{
+    "id": "0xfFD419F34Effc06d997968674ec43fdD1c9c6AB3",
+    "name": "The Spot",
+    "symbol": "SPOT",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://The-Spot.co",
+    "explorer": "https://etherscan.io/token/0xfFD419F34Effc06d997968674ec43fdD1c9c6AB3", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/the_spot_co",
+        "instagram" : "https://instagram.com/the_spot_co"
+    }
+}
